@@ -21,7 +21,7 @@ By using the available information a table schema for each of the six CSV files 
 
 **Note** to import each CSV file into the corresponding SQL table the order strictly should be followed to avoid errors. 
 
-Click the following link to see the actual schema file [EmployeesSQL_db_Schema.sql](EmployeesSQl_db_Schema.sql) 
+Click the following link to see the actual schema file [EmployeesSQL_db_Schema.sql](EmployeesSQL_db_Schema.sql) 
 
 ## 3. Data Analysis
 
